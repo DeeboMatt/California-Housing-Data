@@ -17,7 +17,7 @@ Python
 
 California Housing Analysis (XGBoost vs L. Regression),
 Clustering Wine Data,
-Time Series Plotting 911 
+Time Series Plotting 911 Calls
 
 R
 
