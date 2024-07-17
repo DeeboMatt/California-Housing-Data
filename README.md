@@ -1,6 +1,6 @@
 Matthew Dunbar - Data Analyst Portfolio
 
-About
+
 
 Hi, I'm Matt! I am finishing up a Master of Science degree from Central Washington University in Information Technology Management while specializing in Data Analytics. I also hold a Bachelors degree in Psychology w/ a minor degree in Economics.  
 
@@ -9,8 +9,6 @@ Since Covid, I have gained some work experience as a Data Collection Researcher/
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Table of Contents
-About
 
 Portfolio Projects
 
