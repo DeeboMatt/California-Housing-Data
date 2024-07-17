@@ -5,7 +5,6 @@ Hi, I'm Matt! I am finishing up a Master of Science degree from Central Washingt
 
 Since Covid, I have gained some work experience as a Data Collection Researcher/Machine Learning Data Associate at Amazon (1yr), where I was gathering CVML data for various Alexa services and devices such as Ring Cameras, Echo Show devices, and Astro the companion robot. As well, I worked as a User Research Assistant at Meta Reality Labs, Research (2yr) where I was able to be part of research studies being done for teams such as Eye Tracking Research, Display Systems Research, Applied Perceptual Science, as well as Augmented Reality Teams.
 
-My CV in pdf.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -15,14 +14,14 @@ About
 Portfolio Projects
 
 Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
+California Housing Analysis (XGBoost vs L. Regression)
+Clustering Wine Data
+Time Series Plotting 911 Calls
 R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
+Toyota Corolla
+Stock Market Predictions
+Sales Data
+Boston Housing
+MicroArray Data
 Tableau---> go to Tableau..
-Power BI
 
