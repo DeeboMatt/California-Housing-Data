@@ -15,16 +15,16 @@ Portfolio Projects
 
 Python
 
-California Housing Analysis (XGBoost vs L. Regression)
-Clustering Wine Data
+California Housing Analysis (XGBoost vs L. Regression),
+Clustering Wine Data,
 Time Series Plotting 911 
 
 R
 
-Toyota Corolla
-Stock Market Predictions
-Sales Data
-Boston Housing
+Toyota Corolla,
+Stock Market Predictions,
+Sales Data,
+Boston Housing,
 MicroArray Data
 
 
